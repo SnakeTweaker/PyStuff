@@ -1,0 +1,47 @@
+'''Soldier information document 
+Author: MFSnake
+
+This is a working list. I am conceptualizing different details especially the types of environments and various other factors that might contribute to what kinds of classes each Army might require. 
+
+To play on the players sense of morality. I'd like to see the soldiers mourn others and get emotional if their "friends" are injured... More to come. Graveyards?
+
+Exploiting the National Anthem of the soldiers to sneak past them.
+
+'''
+
+#Basic soldier classes
+
+	Soldier		
+	HP: 50		Stamina: 50		Lethal: 2	Nonlethal: 2	Speed: 3	CQC/B:	2
+	Equipment: Standard Rifle, Handgun, Grenades, Knife
+		Primary function is to maintain control of the environment whichever space they are assigned. Commonly traverse frequented paths and areas where their "enemy" commonly associated with gaurding objectives and similar functions. These are the standard base for all accompasing service members in the game. Basic stats. Very weak in small numbers, but in larger numbers their effectiveness can prove the difference in which side is victorious. 
+
+	Troopers
+	HP: 50		Stamina: 55		Lethal: 2	Nonlethal: 2	Speed: 3	CQC/B:	2
+	Equipment: Standard Rifle, Handgun, Grenades, Knife, NVG
+		Similar to soldiers, with the main difference being that these soldiers specialize in long-distance reconnaissance. They are commonly found in pairs treading uncommon paths on the outer limits of their controlled areas. They are more prone to encounters with belligerents so their attention to their surroundings is expansive. Troopers will chase after the player if they are detected at an outpost and if the player is detected enough during their playthrough, they will generally increase the numbers in their squad up to five. 
+	
+	Long-range Logistics Recon
+	HP: 50		Stamina: 55		Lethal: 2	Nonlethal: 2	Speed: 3	CQC/B:	2
+	Equipment: Standard Rifle, Handgun, Grenades, Knife, NVG, Vehicles
+		They are the drivers bringing essential items back and forth between posts... Generators, supplies, equipment, food rations, ect. Nearly identical to Troopers in everyway besides their function. The key difference between this class and the Trooper is that they will always travel in pairs no matter how many times the player is detected. 
+	
+	Sniper
+	HP: 45		Stamina: 50		Lethal: 4	Nonlethal: 3	Speed: 2	CQC/B:	1
+	Equipment: Sniper Rifle, Handgun, Grenades, Knife, NVG
+		Snipers are the perfect counter-measure for intruder detection. They are expert marksmen and capable of killing targets across long distance. If they cannot kill, they can at least spot the enemy and ensure the bases defense measures are implemented successfully. If unable to kill or confirm a kill, they will call Troopers in to the player's position to inspect for a corpse, ect. Besides from that behavior, if they land a headshot on the player it will kill them instantly. If the player is a hard target, it could only take three shots. The sniper is commonly positioned at a "choke-point" or as an integral part of an outposts defensive surveillance. 
+	
+	Security Forces
+	HP: 60		Stamina: 55		Lethal: 3	Nonlethal: 3	Speed: 2	CQC/B:	2
+	Equipment: Assault Rifle, Handgun, Grenades, Knife, NVG, Machine Gun, Underbarrel 
+		This unit is typically found in larger bases. They are sworn defenders of their objectives and will protect the base at all costs. They typically have higher grades of armor and can be identified by the beret they display on their head with the insignia of their unit. They can take more hits than your average soldier however they lack speed and are sub-par when it comes to close quarters combat. Usually found in large numbers within the base, target practice, patrolling, and investigating are common traits they demonstrate on a typical duty day. When they are on alert they are the most threatening enemy you will come across. The higher the defense condition, the more protective equipment they will wear.
+		
+			SWAT Force (Security Forces subclass)
+			HP: 45		Stamina: 50		Lethal: 2	Nonlethal: 4	Speed: 4	CQC/B:	4
+			Equipment: Sub machine gun, Handgun, Stun Grenades, Knife,
+				Super-Light variant of the SF member. Specializing in SWAT tactics, they will not come out into wide-open areas instead they specialize flushing the enemy from interior facilities such as office spaces, maintenance hangers, or communications towers. They are extremely deadly close-range and their first option is generally to apprehend the player, if the battle continues for too long or the player is taking out the SWAT team they will resort to using lethal force. They wear helmets, unlike the regular SF members.
+	
+			
+		
+		
+		
