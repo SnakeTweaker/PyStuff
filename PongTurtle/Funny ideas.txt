@@ -1,0 +1,15 @@
+Pong but with explosions and dramatic sound effects 
+
+online multiplayer,
+2 player
+Vs. CPU
+Exercise mode
+
+
+
+The ability to enter names
+Changing the color of your paddle
+
+The backgrounds
+
+Custom music, SFX
